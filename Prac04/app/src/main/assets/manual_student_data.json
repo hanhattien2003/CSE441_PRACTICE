@@ -1,0 +1,227 @@
+[
+    {
+        "id": "B1234567",
+        "full_name": {
+            "first": "Hoa",
+            "last": "Mai",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "10/10/2009",
+        "email": "hoamai@xmail.com",
+        "address": "Nghe An",
+        "major": "CNTT",
+        "gpa": 3.25,
+        "year": 2
+    },
+    {
+        "id": "B1234568",
+        "full_name": {
+            "first": "Tuan",
+            "last": "Nguyen",
+            "midd": "Van"
+        },
+        "gender": "Nam",
+        "birth_date": "15/05/2005",
+        "email": "tuannguyen@xmail.com",
+        "address": "Ha Noi",
+        "major": "Kinh Te",
+        "gpa": 3.7,
+        "year": 3
+    },
+    {
+        "id": "B1234569",
+        "full_name": {
+            "first": "Linh",
+            "last": "Pham",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "22/12/2004",
+        "email": "linhpham@xmail.com",
+        "address": "Da Nang",
+        "major": "Marketing",
+        "gpa": 3.45,
+        "year": 4
+    },
+    {
+        "id": "B1234570",
+        "full_name": {
+            "first": "Bao",
+            "last": "Le",
+            "midd": "Minh"
+        },
+        "gender": "Nam",
+        "birth_date": "30/03/2003",
+        "email": "baole@xmail.com",
+        "address": "Ho Chi Minh",
+        "major": "CNTT",
+        "gpa": 3.85,
+        "year": 2
+    },
+    {
+        "id": "B1234571",
+        "full_name": {
+            "first": "Yen",
+            "last": "Tran",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "07/07/2004",
+        "email": "yentran@xmail.com",
+        "address": "Hai Phong",
+        "major": "Sinh Hoc",
+        "gpa": 3.3,
+        "year": 1
+    },
+    {
+        "id": "B1234572",
+        "full_name": {
+            "first": "Phat",
+            "last": "Vu",
+            "midd": "Cong"
+        },
+        "gender": "Nam",
+        "birth_date": "01/01/2002",
+        "email": "phatvu@xmail.com",
+        "address": "Can Tho",
+        "major": "Ky Thuat",
+        "gpa": 3.95,
+        "year": 4
+    },
+    {
+        "id": "B1234573",
+        "full_name": {
+            "first": "Thu",
+            "last": "Bui",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "25/11/2005",
+        "email": "thubui@xmail.com",
+        "address": "Hue",
+        "major": "Marketing",
+        "gpa": 3.6,
+        "year": 3
+    },
+    {
+        "id": "B1234574",
+        "full_name": {
+            "first": "Huy",
+            "last": "Tran",
+            "midd": "Ngoc"
+        },
+        "gender": "Nam",
+        "birth_date": "13/02/2006",
+        "email": "huytran@xmail.com",
+        "address": "Quang Tri",
+        "major": "CNTT",
+        "gpa": 3.8,
+        "year": 2
+    },
+    {
+        "id": "B1234575",
+        "full_name": {
+            "first": "Khanh",
+            "last": "Do",
+            "midd": "Minh"
+        },
+        "gender": "Nam",
+        "birth_date": "18/09/2004",
+        "email": "khanhdo@xmail.com",
+        "address": "Quang Ninh",
+        "major": "Kinh Te",
+        "gpa": 3.65,
+        "year": 3
+    },
+    {
+        "id": "B1234576",
+        "full_name": {
+            "first": "My",
+            "last": "Vo",
+            "midd": "Hoang"
+        },
+        "gender": "Nu",
+        "birth_date": "08/08/2003",
+        "email": "myvo@xmail.com",
+        "address": "Binh Dinh",
+        "major": "Sinh Hoc",
+        "gpa": 3.2,
+        "year": 1
+    },
+    {
+        "id": "B1234577",
+        "full_name": {
+            "first": "Quynh",
+            "last": "Pham",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "26/06/2005",
+        "email": "quynhpham@xmail.com",
+        "address": "Ninh Binh",
+        "major": "Marketing",
+        "gpa": 3.75,
+        "year": 2
+    },
+    {
+        "id": "B1234578",
+        "full_name": {
+            "first": "Kien",
+            "last": "Nguyen",
+            "midd": "Huu"
+        },
+        "gender": "Nam",
+        "birth_date": "17/05/2007",
+        "email": "kiennguyen@xmail.com",
+        "address": "Nam Dinh",
+        "major": "Ky Thuat",
+        "gpa": 3.55,
+        "year": 3
+    },
+    {
+        "id": "B1234579",
+        "full_name": {
+            "first": "Tuyet",
+            "last": "Nguyen",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "28/08/2008",
+        "email": "tuyetnguyen@xmail.com",
+        "address": "Thai Binh",
+        "major": "CNTT",
+        "gpa": 3.4,
+        "year": 4
+    },
+    {
+        "id": "B1234580",
+        "full_name": {
+            "first": "Hanh",
+            "last": "Le",
+            "midd": "Thi"
+        },
+        "gender": "Nu",
+        "birth_date": "16/11/2004",
+        "email": "hanhle@xmail.com",
+        "address": "Dong Nai",
+        "major": "Sinh Hoc",
+        "gpa": 3.65,
+        "year": 1
+    },
+    {
+        "id": "B1234581",
+        "full_name": {
+            "first": "Tam",
+            "last": "Phan",
+            "midd": "Quoc"
+        },
+        "gender": "Nam",
+        "birth_date": "19/03/2005",
+        "email": "tamphan@xmail.com",
+        "address": "Binh Duong",
+        "major": "Kinh Te",
+        "gpa": 3.5,
+        "year": 3
+    }
+]
